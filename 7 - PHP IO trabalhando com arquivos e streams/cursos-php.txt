@@ -1,0 +1,7 @@
+ Design Patterns PHP II: Boas práticas de programação
+ Design Patterns PHP I: Boas práticas de programação
+
+ Aprendendo a usar o PHP leleque
+Aprendendo a usar o PHP molecote
+
+Aprendendo a usar o PHP matagal
